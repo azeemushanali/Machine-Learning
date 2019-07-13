@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-#titanic dataset pe lagana g=hau
+#titanic dataset pe  bhi lagana hai
 from sklearn.datasets import load_breast_cancer
 datasets = load_breast_cancer()
 
