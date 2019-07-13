@@ -16,7 +16,3 @@ lin_reg.score(X,y)
 
 lin_reg.coef_
 lin_reg.intercept_
-
-# dont know what to do with this lin_reg.predict(X[6:9,:])
-
-y_pred = lin_reg.predict(X)
